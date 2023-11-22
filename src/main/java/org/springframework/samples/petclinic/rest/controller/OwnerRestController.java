@@ -41,7 +41,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Vitaliy Fedoriv
+ * @author Vitaliy Fedoriv Timi
  */
 
 @RestController
