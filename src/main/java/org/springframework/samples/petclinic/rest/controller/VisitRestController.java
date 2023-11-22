@@ -36,6 +36,7 @@ import java.util.List;
  * @author Vitaliy Fedoriv
  */
 
+
 @RestController
 @CrossOrigin(exposedHeaders = "errors, content-type")
 @RequestMapping("api")
